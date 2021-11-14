@@ -1,0 +1,24 @@
+{
+    "langs": ["fr", "en"],
+    "Welcome": {
+        "fr": "Welcome to Ramok's Anydesk Resolver !\n\n",
+        "en": "Bienvene au Anydesk Resolver de Ramok !\n\n"
+    },
+    "PlatformNotSupported": {
+        "fr": "Ce programme fonctionne seulement sur Windows !",
+        "en": "This program is made for Windows only."
+    },
+    "FileNotFound": {
+        "fr": "Le fichier \"ad.trace\" n'existe pas !",
+        "en": "The file \"ad.trace\" does not exists !"
+    },
+    "NoIPFound": {
+        "en":"No IP Found",
+        "fr": "Aucune IP trouvée."
+    },
+    "ThankToUse": {
+        "en": "Thank to use my program.",
+        "fr": "Merci d'avoir utilisé mon programme."
+    },
+    "LangNotSupported": "This language is not supported by this program."
+}
